@@ -24,9 +24,9 @@ ALTER table flota_keepcoding.marca ADD CONSTRAINT marca_id_grupo_fkey FOREIGN KE
 
 -- flota_kc.aseguradora definition
 
--- Drop table
 
--- DROP TABLE flota_kc.aseguradora;
+
+
 
 CREATE TABLE flota_keepcoding.aseguradora (
 	id_aseguradora serial4 NOT NULL,
